@@ -28,3 +28,10 @@ NPM security update ([CVE-2023-42282](https://github.com/advisories/GHSA-78xj-cg
 ## [0.1.3] 2024-08-04
   
 - NPM security updates ([ws override](https://github.com/advisories/GHSA-3h5v-q93c-6h6q))
+
+## [0.1.4] 2026-05-03
+
+- Override serialize-javascript (see mochajs/mocha#5781)
+- Upgraded Babel to latest release
+- Upgraded Webdriver.IO to latest (9.27.1)
+- Replaced ESLint deprecated release
