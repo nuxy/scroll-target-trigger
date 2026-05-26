@@ -4,6 +4,5 @@ babel.config.json
 eslint.config.js
 ISSUE_TEMPLATE.md
 package.*
-node_modules
 test
 wdio.conf.js
