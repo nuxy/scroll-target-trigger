@@ -2,7 +2,7 @@
  *  Scroll Target Trigger
  *  Lightweight, dependency free, scroll event methods.
  *
- *  Copyright 2023-2024, Marc S. Brooks (https://mbrooks.info)
+ *  Copyright 2023-2026, Marc S. Brooks (https://mbrooks.info)
  *  Licensed under the MIT license:
  *  http://www.opensource.org/licenses/mit-license.php
  */
