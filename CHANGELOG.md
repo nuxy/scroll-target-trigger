@@ -6,22 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0) a
 
 ## [0.1.0] - 2023-10-06
 
-### Changed
-
 - Replaced/removed deprecated dependencies
 - Accurately trigger "target" callback
 
 ## [0.1.1] 2023-10-31
-
-### Updated
 
 - Upgraded outdated NPM packages (devDependencies)
 
 # [0.1.2] 2024-04-01
 
 NPM security update ([CVE-2023-42282](https://github.com/advisories/GHSA-78xj-cgh5-2h22))
-
-### Updated
 
 - Replaced Travis-CI with Github workflow
 
