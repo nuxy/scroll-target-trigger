@@ -29,3 +29,9 @@ NPM security update ([CVE-2023-42282](https://github.com/advisories/GHSA-78xj-cg
 - Upgraded Babel to latest release
 - Upgraded Webdriver.IO to latest (9.27.1)
 - Replaced ESLint deprecated release
+
+## [0.1.5] 2026-07-13
+
+- Dropped support for Node.js v21.x
+- Upgraded outdated NPM packages
+- NPM security updates

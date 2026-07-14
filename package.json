@@ -1,6 +1,6 @@
 {
   "name": "scroll-target-trigger",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Lightweight, dependency free, scroll event methods.",
   "main": "src/scroll-target-trigger.js",
   "scripts": {
