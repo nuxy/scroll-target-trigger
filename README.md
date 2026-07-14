@@ -1,6 +1,6 @@
 # Scroll Target Trigger
 
-[![npm version](https://badge.fury.io/js/scroll-target-trigger.svg)](https://badge.fury.io/js/scroll-target-trigger) [![](https://img.shields.io/npm/dm/scroll-target-trigger)](https://www.npmjs.com/package/scroll-target-trigger) [![Build Status](https://img.shields.io/github/actions/workflow/status/nuxy/scroll-target-trigger/.github%2Fworkflows%2Fci.yml)](https://github.com/nuxy/scroll-target-trigger/actions) [![Install size](https://packagephobia.com/badge?p=scroll-target-trigger)](https://packagephobia.com/result?p=scroll-target-trigger) [![](https://img.shields.io/github/v/release/nuxy/scroll-target-trigger)](https://github.com/nuxy/scroll-target-trigger/releases)
+[![npm version](https://badge.fury.io/js/scroll-target-trigger.svg)](https://badge.fury.io/js/scroll-target-trigger) [![](https://img.shields.io/npm/dm/scroll-target-trigger)](https://www.npmjs.com/package/scroll-target-trigger) [![Build Status](https://img.shields.io/github/actions/workflow/status/nuxy/scroll-target-trigger/.github%2Fworkflows%2Fci.yml)](https://github.com/nuxy/scroll-target-trigger/actions) [![Install size](https://packagephobia.com/badge?p=scroll-target-trigger)](https://packagephobia.com/result?p=scroll-target-trigger) [![](https://img.shields.io/github/v/release/nuxy/scroll-target-trigger)](https://github.com/nuxy/scroll-target-trigger/releases) [![NO AI](https://raw.githubusercontent.com/nuxy/no-ai-badge/master/badge.svg)](https://github.com/nuxy/no-ai-badge)
 
 Lightweight, dependency free, scroll event methods.
 
